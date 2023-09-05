@@ -32,7 +32,7 @@ const EditButton = styled.button`
   border: none;
   cursor: pointer;
   font-size: 20px;
-  margin-right: 50px;
+  margin-left: 50px;
 `;
 export default function Post({ postData }) {
   return (
