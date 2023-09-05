@@ -11,7 +11,8 @@ You will be able to see the website in Vercel to check out how it works at https
 Here is a view of how it looks.
 
 ![image](https://github.com/Darkphantom323/Personal-Blog-using-NextJS/assets/99313418/70aba11d-e49d-4f44-9af6-509507160632)
-![image](https://github.com/Darkphantom323/Personal-Blog-using-NextJS/assets/99313418/c4823922-9468-491b-a04c-b17a9c8d37b8)
+![image](https://github.com/Darkphantom323/Personal-Blog-using-NextJS/Recording%202023-09-06%20at%2000.20.45.gif)
+
 
 
 For composing a blog post go to http://localhost:3000/compose 
