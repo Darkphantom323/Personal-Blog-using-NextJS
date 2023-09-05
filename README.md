@@ -11,7 +11,7 @@ You will be able to see the website in Vercel to check out how it works at https
 Here is a view of how it looks.
 
 ![image](https://github.com/Darkphantom323/Personal-Blog-using-NextJS/assets/99313418/70aba11d-e49d-4f44-9af6-509507160632)
-![image](https://github.com/Darkphantom323/Personal-Blog-using-NextJS/Recording%202023-09-06%20at%2000.20.45.gif)
+![image](https://github.com/Darkphantom323/Personal-Blog-using-NextJS/blob/main/Recording%202023-09-06%20at%2000.20.45.gif)
 
 
 
