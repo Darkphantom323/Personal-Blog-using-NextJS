@@ -5,12 +5,20 @@ import Script from 'next/script'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
+import styled from "@emotion/styled";
 
-const name = '[Your Name]'
-export const siteTitle = 'Next.js Sample Website'
+const Container = styled.div`
+  display: flex;
+  justify-content: center;
+  padding-top: 5vh;
+`;
+
+const name = '[Hrishith]'
+export const siteTitle = 'My Personal Blog'
 
 export default function Layout({ children, home }) {
   return (
+    <Container>
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
@@ -74,5 +82,6 @@ export default function Layout({ children, home }) {
         </div>
       )}
     </div>
+    </Container>
   )
 }
